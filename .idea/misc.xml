@@ -7,7 +7,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-two/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-cluster/pom.xml" />
       </list>
     </option>
   </component>
