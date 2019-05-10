@@ -10,6 +10,12 @@
         <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-two/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-cluster/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-producer/spring-cloud-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-consumer/spring-cloud-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-producer/spring-cloud-producer2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-consumer/spring-cloud-consumer-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-consumer/spring-cloud-consumer-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-git/pom.xml" />
       </list>
     </option>
   </component>

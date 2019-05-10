@@ -3,9 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-git/spring-cloud-config-git/spring-cloud-config-server/spring-cloud-config-git.iml" filepath="$PROJECT_DIR$/spring-cloud-git/spring-cloud-config-git/spring-cloud-config-server/spring-cloud-config-git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consumer/spring-cloud-consumer/spring-cloud-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-consumer/spring-cloud-consumer/spring-cloud-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consumer/spring-cloud-consumer-hystrix/spring-cloud-consumer-hystrix.iml" filepath="$PROJECT_DIR$/spring-cloud-consumer/spring-cloud-consumer-hystrix/spring-cloud-consumer-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consumer/spring-cloud-consumer-hystrix-dashboard/spring-cloud-consumer-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/spring-cloud-consumer/spring-cloud-consumer-hystrix-dashboard/spring-cloud-consumer-hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka/spring-cloud-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-cluster/spring-cloud-eureka-cluster.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-cluster/spring-cloud-eureka-cluster.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-two/spring-cloud-eureka-two.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-two/spring-cloud-eureka-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-producer/spring-cloud-producer/spring-cloud-producer.iml" filepath="$PROJECT_DIR$/spring-cloud-producer/spring-cloud-producer/spring-cloud-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-producer/spring-cloud-producer2/spring-cloud-producer2.iml" filepath="$PROJECT_DIR$/spring-cloud-producer/spring-cloud-producer2/spring-cloud-producer2.iml" />
     </modules>
   </component>
 </project>
