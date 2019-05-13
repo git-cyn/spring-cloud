@@ -20,6 +20,13 @@
         <option value="$PROJECT_DIR$/spring-cloud-git/spring-cloud-config-server/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-server/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-git-eureka/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-git/spring-cloud-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-git/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-git-eureka/spring-cloud-config-server-git-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-git-eureka/spring-cloud-config-client-git-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-git-eureka-bus/spring-cloud-config-client-bus/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-git-eureka-bus/spring-cloud-config-server-bus/pom.xml" />
       </list>
     </option>
   </component>

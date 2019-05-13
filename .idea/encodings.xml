@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-client" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-git-eureka-bus/spring-cloud-config-client-bus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-git-eureka-bus/spring-cloud-config-server-bus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-git-eureka/spring-cloud-config-client-git-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-git-eureka/spring-cloud-config-git-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-git-eureka/spring-cloud-config-server-git-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-git/spring-cloud-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-git/spring-cloud-config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-consumer/spring-cloud-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-consumer/spring-cloud-consumer-hystrix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-consumer/spring-cloud-consumer-hystrix-dashboard" charset="UTF-8" />
