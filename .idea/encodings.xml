@@ -17,5 +17,8 @@
     <file url="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-two" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-producer/spring-cloud-producer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-producer/spring-cloud-producer2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-simple" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul/spring-cloud-zuul-simple" charset="UTF-8" />
   </component>
 </project>
