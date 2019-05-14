@@ -32,6 +32,7 @@
         <option value="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul/spring-cloud-zuul-simple/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul/spring-cloud-zuul-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul/spring-cloud-zuul-filter/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-getway/spring-cloud-getway/pom.xml" />
       </list>
     </option>
   </component>

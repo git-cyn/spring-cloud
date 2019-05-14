@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka/spring-cloud-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-cluster/spring-cloud-eureka-cluster.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-cluster/spring-cloud-eureka-cluster.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-two/spring-cloud-eureka-two.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-two/spring-cloud-eureka-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-getway/spring-cloud-getway/spring-cloud-getway.iml" filepath="$PROJECT_DIR$/spring-cloud-getway/spring-cloud-getway/spring-cloud-getway.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-producer/spring-cloud-producer/spring-cloud-producer.iml" filepath="$PROJECT_DIR$/spring-cloud-producer/spring-cloud-producer/spring-cloud-producer.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-producer/spring-cloud-producer2/spring-cloud-producer2.iml" filepath="$PROJECT_DIR$/spring-cloud-producer/spring-cloud-producer2/spring-cloud-producer2.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul/spring-cloud-zuul.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul/spring-cloud-zuul.iml" />
