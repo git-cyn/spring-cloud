@@ -18,6 +18,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-producer/spring-cloud-producer/spring-cloud-producer.iml" filepath="$PROJECT_DIR$/spring-cloud-producer/spring-cloud-producer/spring-cloud-producer.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-producer/spring-cloud-producer2/spring-cloud-producer2.iml" filepath="$PROJECT_DIR$/spring-cloud-producer/spring-cloud-producer2/spring-cloud-producer2.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul/spring-cloud-zuul.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul/spring-cloud-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul/spring-cloud-zuul-eureka/spring-cloud-zuul-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul/spring-cloud-zuul-eureka/spring-cloud-zuul-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul/spring-cloud-zuul-filter/spring-cloud-zuul-filter.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul/spring-cloud-zuul-filter/spring-cloud-zuul-filter.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul/spring-cloud-zuul-simple/spring-cloud-zuul-simple.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul/spring-cloud-zuul-simple/spring-cloud-zuul-simple.iml" />
     </modules>
   </component>

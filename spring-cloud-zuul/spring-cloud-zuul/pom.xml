@@ -13,6 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<modules>
 		<module>spring-cloud-zuul-simple</module>
+		<module>spring-cloud-zuul-eureka</module>
 	</modules>
 	<packaging>pom</packaging>
 	<name>spring-cloud-zuul</name>
